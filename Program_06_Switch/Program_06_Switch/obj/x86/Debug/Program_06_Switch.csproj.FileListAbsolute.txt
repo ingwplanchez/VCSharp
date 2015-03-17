@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_06_Switch\Program_06_Switch\bin\Debug\Program_06_Switch.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_06_Switch\Program_06_Switch\bin\Debug\Program_06_Switch.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_06_Switch\Program_06_Switch\obj\x86\Debug\Program_06_Switch.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_06_Switch\Program_06_Switch\obj\x86\Debug\Program_06_Switch.pdb

@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_11_Listas\Program_11_Listas\bin\Debug\Program_11_Listas.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_11_Listas\Program_11_Listas\bin\Debug\Program_11_Listas.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_11_Listas\Program_11_Listas\obj\x86\Debug\Program_11_Listas.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_11_Listas\Program_11_Listas\obj\x86\Debug\Program_11_Listas.pdb

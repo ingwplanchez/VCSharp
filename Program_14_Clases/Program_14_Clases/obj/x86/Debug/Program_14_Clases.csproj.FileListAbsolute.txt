@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_14_Clases\Program_14_Clases\bin\Debug\Program_14_Clases.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_14_Clases\Program_14_Clases\bin\Debug\Program_14_Clases.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_14_Clases\Program_14_Clases\obj\x86\Debug\Program_14_Clases.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_14_Clases\Program_14_Clases\obj\x86\Debug\Program_14_Clases.pdb

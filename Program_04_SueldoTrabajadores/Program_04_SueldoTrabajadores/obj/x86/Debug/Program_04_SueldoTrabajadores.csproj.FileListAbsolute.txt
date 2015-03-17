@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_04_SueldoTrabajadores\Program_04_SueldoTrabajadores\bin\Debug\Program_04_SueldoTrabajadores.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_04_SueldoTrabajadores\Program_04_SueldoTrabajadores\bin\Debug\Program_04_SueldoTrabajadores.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_04_SueldoTrabajadores\Program_04_SueldoTrabajadores\obj\x86\Debug\Program_04_SueldoTrabajadores.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_04_SueldoTrabajadores\Program_04_SueldoTrabajadores\obj\x86\Debug\Program_04_SueldoTrabajadores.pdb

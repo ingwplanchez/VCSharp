@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_03_ConvertirValores\Program_03_ConvertirValores\bin\Debug\Program_03_ConvertirValores.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_03_ConvertirValores\Program_03_ConvertirValores\bin\Debug\Program_03_ConvertirValores.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_03_ConvertirValores\Program_03_ConvertirValores\obj\x86\Debug\Program_03_ConvertirValores.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_03_ConvertirValores\Program_03_ConvertirValores\obj\x86\Debug\Program_03_ConvertirValores.pdb

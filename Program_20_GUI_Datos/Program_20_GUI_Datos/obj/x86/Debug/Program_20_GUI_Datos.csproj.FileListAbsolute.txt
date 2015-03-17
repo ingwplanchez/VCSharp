@@ -1,0 +1,7 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_20_GUI_Datos\Program_20_GUI_Datos\bin\Debug\Program_20_GUI_Datos.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_20_GUI_Datos\Program_20_GUI_Datos\bin\Debug\Program_20_GUI_Datos.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_20_GUI_Datos\Program_20_GUI_Datos\obj\x86\Debug\Program_20_GUI_Datos.Form1.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_20_GUI_Datos\Program_20_GUI_Datos\obj\x86\Debug\Program_20_GUI_Datos.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_20_GUI_Datos\Program_20_GUI_Datos\obj\x86\Debug\Program_20_GUI_Datos.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_20_GUI_Datos\Program_20_GUI_Datos\obj\x86\Debug\Program_20_GUI_Datos.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_20_GUI_Datos\Program_20_GUI_Datos\obj\x86\Debug\Program_20_GUI_Datos.pdb

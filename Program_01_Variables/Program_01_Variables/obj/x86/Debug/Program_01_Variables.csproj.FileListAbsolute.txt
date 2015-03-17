@@ -1,0 +1,5 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_01_Variables\Program_01_Variables\bin\Debug\Program_01_Variables.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_01_Variables\Program_01_Variables\bin\Debug\Program_01_Variables.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.csprojResolveAssemblyReference.cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_01_Variables\Program_01_Variables\obj\x86\Debug\Program_01_Variables.pdb

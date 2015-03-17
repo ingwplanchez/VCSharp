@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_13_Enumeradores\Program_13_Enumeradores\bin\Debug\Program_13_Enumeradores.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_13_Enumeradores\Program_13_Enumeradores\bin\Debug\Program_13_Enumeradores.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_13_Enumeradores\Program_13_Enumeradores\obj\x86\Debug\Program_13_Enumeradores.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_13_Enumeradores\Program_13_Enumeradores\obj\x86\Debug\Program_13_Enumeradores.pdb

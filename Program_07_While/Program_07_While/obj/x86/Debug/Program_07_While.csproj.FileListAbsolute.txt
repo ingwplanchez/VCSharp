@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_07_While\Program_07_While\bin\Debug\Program_07_While.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_07_While\Program_07_While\bin\Debug\Program_07_While.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_07_While\Program_07_While\obj\x86\Debug\Program_07_While.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_07_While\Program_07_While\obj\x86\Debug\Program_07_While.pdb

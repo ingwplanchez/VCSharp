@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_12_ForEach\Program_12_ForEach\bin\Debug\Program_12_ForEach.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_12_ForEach\Program_12_ForEach\bin\Debug\Program_12_ForEach.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_12_ForEach\Program_12_ForEach\obj\x86\Debug\Program_12_ForEach.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_12_ForEach\Program_12_ForEach\obj\x86\Debug\Program_12_ForEach.pdb

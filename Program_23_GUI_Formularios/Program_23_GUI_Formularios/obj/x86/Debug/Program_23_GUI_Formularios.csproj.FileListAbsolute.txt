@@ -1,0 +1,9 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\bin\Debug\Program_23_GUI_Formularios.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\bin\Debug\Program_23_GUI_Formularios.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\obj\x86\Debug\Program_23_GUI_Formularios.Form1.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\obj\x86\Debug\Program_23_GUI_Formularios.Form2.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\obj\x86\Debug\Program_23_GUI_Formularios.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\obj\x86\Debug\Program_23_GUI_Formularios.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\obj\x86\Debug\Program_23_GUI_Formularios.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\obj\x86\Debug\Program_23_GUI_Formularios.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_23_GUI_Formularios\Program_23_GUI_Formularios\obj\x86\Debug\Program_23_GUI_Formularios.csprojResolveAssemblyReference.cache

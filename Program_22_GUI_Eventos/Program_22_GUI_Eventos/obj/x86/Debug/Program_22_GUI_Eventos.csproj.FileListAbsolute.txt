@@ -1,0 +1,7 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_22_GUI_Eventos\Program_22_GUI_Eventos\obj\x86\Debug\Program_22_GUI_Eventos.Form1.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_22_GUI_Eventos\Program_22_GUI_Eventos\obj\x86\Debug\Program_22_GUI_Eventos.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_22_GUI_Eventos\Program_22_GUI_Eventos\obj\x86\Debug\Program_22_GUI_Eventos.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_22_GUI_Eventos\Program_22_GUI_Eventos\bin\Debug\Program_22_GUI_Eventos.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_22_GUI_Eventos\Program_22_GUI_Eventos\bin\Debug\Program_22_GUI_Eventos.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_22_GUI_Eventos\Program_22_GUI_Eventos\obj\x86\Debug\Program_22_GUI_Eventos.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_22_GUI_Eventos\Program_22_GUI_Eventos\obj\x86\Debug\Program_22_GUI_Eventos.pdb

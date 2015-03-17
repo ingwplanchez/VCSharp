@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_15_Constructor\Program_15_Constructor\bin\Debug\Program_15_Constructor.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_15_Constructor\Program_15_Constructor\bin\Debug\Program_15_Constructor.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_15_Constructor\Program_15_Constructor\obj\x86\Debug\Program_15_Constructor.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_15_Constructor\Program_15_Constructor\obj\x86\Debug\Program_15_Constructor.pdb

@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_05_IF_ELSE\Program_05_IF_ELSE\bin\Debug\Program_05_IF_ELSE.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_05_IF_ELSE\Program_05_IF_ELSE\bin\Debug\Program_05_IF_ELSE.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_05_IF_ELSE\Program_05_IF_ELSE\obj\x86\Debug\Program_05_IF_ELSE.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_05_IF_ELSE\Program_05_IF_ELSE\obj\x86\Debug\Program_05_IF_ELSE.pdb

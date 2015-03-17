@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_18_Herencia\Program_18_Herencia\bin\Debug\Program_18_Herencia.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_18_Herencia\Program_18_Herencia\bin\Debug\Program_18_Herencia.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_18_Herencia\Program_18_Herencia\obj\x86\Debug\Program_18_Herencia.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_18_Herencia\Program_18_Herencia\obj\x86\Debug\Program_18_Herencia.pdb

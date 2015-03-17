@@ -1,0 +1,7 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_21_GUI_Propiedades\Program_21_GUI_Propiedades\bin\Debug\Program_21_GUI_Propiedades.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_21_GUI_Propiedades\Program_21_GUI_Propiedades\bin\Debug\Program_21_GUI_Propiedades.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_21_GUI_Propiedades\Program_21_GUI_Propiedades\obj\x86\Debug\Program_21_GUI_Propiedades.Form1.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_21_GUI_Propiedades\Program_21_GUI_Propiedades\obj\x86\Debug\Program_21_GUI_Propiedades.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_21_GUI_Propiedades\Program_21_GUI_Propiedades\obj\x86\Debug\Program_21_GUI_Propiedades.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_21_GUI_Propiedades\Program_21_GUI_Propiedades\obj\x86\Debug\Program_21_GUI_Propiedades.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_21_GUI_Propiedades\Program_21_GUI_Propiedades\obj\x86\Debug\Program_21_GUI_Propiedades.pdb

@@ -1,0 +1,7 @@
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_19_GUI_HolaMundo\Program_19_GUI_HolaMundo\bin\Debug\Program_19_GUI_HolaMundo.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_19_GUI_HolaMundo\Program_19_GUI_HolaMundo\bin\Debug\Program_19_GUI_HolaMundo.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_19_GUI_HolaMundo\Program_19_GUI_HolaMundo\obj\x86\Debug\Program_19_GUI_HolaMundo.Form1.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_19_GUI_HolaMundo\Program_19_GUI_HolaMundo\obj\x86\Debug\Program_19_GUI_HolaMundo.Properties.Resources.resources
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_19_GUI_HolaMundo\Program_19_GUI_HolaMundo\obj\x86\Debug\Program_19_GUI_HolaMundo.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_19_GUI_HolaMundo\Program_19_GUI_HolaMundo\obj\x86\Debug\Program_19_GUI_HolaMundo.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\VCSharp\Program_19_GUI_HolaMundo\Program_19_GUI_HolaMundo\obj\x86\Debug\Program_19_GUI_HolaMundo.pdb
